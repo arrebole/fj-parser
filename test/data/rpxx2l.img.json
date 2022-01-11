@@ -1,0 +1,77 @@
+{
+    "antispam": {
+        "taskId": "rpxx2luggqf7tuqu4rp3z87g00309rbj",
+        "status": 2,
+        "suggestion": 1,
+        "censorType": 0,
+        "name": "309",
+        "dataId": "309",
+        "labels": [
+            {
+                "label": 500,
+                "level": 1,
+                "rate": 1,
+                "subLabels": [
+                    {
+                        "subLabel": 50002,
+                        "rate": 1,
+                        "labelLevel": 1,
+                        "details": {
+                            "hitInfos": [
+                                {
+                                    "value": "cnmap"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "label": 300,
+                "level": 0,
+                "rate": 1
+            },
+            {
+                "label": 100,
+                "level": 0,
+                "rate": 0.9971
+            },
+            {
+                "label": 400,
+                "level": 0,
+                "rate": 1
+            },
+            {
+                "label": 110,
+                "level": 0,
+                "rate": 0.9947
+            },
+            {
+                "label": 800,
+                "level": 0,
+                "rate": 1
+            },
+            {
+                "label": 200,
+                "level": 0,
+                "rate": 1
+            },
+            {
+                "label": 210,
+                "level": 0,
+                "rate": 1
+            },
+            {
+                "label": 1100,
+                "level": 0,
+                "rate": 1
+            },
+            {
+                "label": 900,
+                "level": 0,
+                "rate": 1
+            }
+        ],
+        "resultType": 1
+    }
+}

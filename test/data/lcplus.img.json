@@ -1,0 +1,85 @@
+{
+    "antispam": {
+        "taskId": "lcplusp383nuxw4zpmg6t33g00309rs3",
+        "status": 2,
+        "suggestion": 2,
+        "censorType": 0,
+        "name": "313",
+        "dataId": "313",
+        "labels": [
+            {
+                "label": 100,
+                "level": 2,
+                "rate": 0.9999,
+                "subLabels": [
+                    {
+                        "subLabel": 10007,
+                        "rate": 0.8743,
+                        "labelLevel": 2,
+                        "details": {
+                            "hitInfos": [
+                                {
+                                    "value": "cartoon",
+                                    "group": "日常场景"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "label": 110,
+                "level": 2,
+                "rate": 0.9999,
+                "subLabels": [
+                    {
+                        "subLabel": 11000,
+                        "rate": 0.99989367,
+                        "labelLevel": 0
+                    }
+                ]
+            },
+            {
+                "label": 500,
+                "level": 0,
+                "rate": 1
+            },
+            {
+                "label": 300,
+                "level": 0,
+                "rate": 1
+            },
+            {
+                "label": 400,
+                "level": 0,
+                "rate": 1
+            },
+            {
+                "label": 800,
+                "level": 0,
+                "rate": 1
+            },
+            {
+                "label": 200,
+                "level": 0,
+                "rate": 1
+            },
+            {
+                "label": 210,
+                "level": 0,
+                "rate": 1
+            },
+            {
+                "label": 1100,
+                "level": 0,
+                "rate": 1
+            },
+            {
+                "label": 900,
+                "level": 0,
+                "rate": 1
+            }
+        ],
+        "resultType": 1
+    }
+}
